@@ -3,5 +3,5 @@ from .websniffer import get_info
 
 
 def get():
-    get_info()
+    return get_info()
 
