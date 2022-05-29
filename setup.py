@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="webhunter",
-    version="0.0.1",
+    version="0.0.2",
     author="xuzhiyu",
     author_email="GloryOfAll1994@gmail.com",
     description="webhunter",
